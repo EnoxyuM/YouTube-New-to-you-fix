@@ -17,7 +17,9 @@ installation:
 
 ![image](https://github.com/user-attachments/assets/dc93d450-516c-4c2f-a7eb-5c27ef8ffbb3)
 
+
 4 Upload unpacked extension
+
 ![image](https://github.com/user-attachments/assets/71a35f10-3e96-4323-a79d-55e278d932b1)
 
 5 Select unzipped on step 2 folder
