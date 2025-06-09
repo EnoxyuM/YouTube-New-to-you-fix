@@ -1,0 +1,15 @@
+/* 1. Прячем ВСЕ кнопки, убирая их с экрана, но не удаляя со страницы */
+ytd-feed-filter-chip-bar-renderer yt-chip-cloud-chip-renderer {
+    position: absolute !important;
+    left: -9999px !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+/* 2. Находим ПОСЛЕДНЮЮ кнопку и возвращаем ей нормальный вид */
+ytd-feed-filter-chip-bar-renderer yt-chip-cloud-chip-renderer:last-child {
+    position: static !important; /* Возвращаем в нормальный поток страницы */
+    left: auto !important;
+    opacity: 1 !important;
+    pointer-events: auto !important;
+}
