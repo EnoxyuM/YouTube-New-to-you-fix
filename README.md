@@ -52,6 +52,6 @@ In the file selection window, navigate to and select the folder you extracted in
 
 **7. Enjoy!**
 
-Go to YouTube refresh page (F5)
+Go to YouTube and refresh page (F5)
 
 ![image](https://www.shutterstock.com/image-photo/successful-businessman-his-office-relaxing-260nw-150094982.jpg)
